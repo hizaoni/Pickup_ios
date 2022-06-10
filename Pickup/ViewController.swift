@@ -6,6 +6,7 @@
 //
 
 import UIKit
+import SwiftUI
 
 class ViewController: UIViewController, UITableViewDataSource, UITableViewDelegate {
     
@@ -26,6 +27,10 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
     }
     
     
+    @IBSegueAction func swiftUISegueButton(_ coder: NSCoder) -> UIViewController? {
+        return UIHostingController(coder: coder, rootView: SwiftUIView())
+    }
+    
     @IBOutlet weak var tableView: UITableView!
     
     var itemList : [(id: Int, name: String, quantity: Int)] = [] {
@@ -34,6 +39,7 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
             }
     }
     
+  
     
     
     override func viewDidLoad() {
