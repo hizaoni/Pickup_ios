@@ -18,5 +18,6 @@ class ScannerViewModel: ObservableObject {
     func onFoundQrCode(_ code: String) {
         self.lastQrCode = code
         isShowing = false
+        //ここにリクエストを入力する
     }
 }
