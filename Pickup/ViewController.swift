@@ -43,6 +43,7 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
         tableView.delegate = self
         tableView.dataSource = self
         
+        
     }
     
     func getTable(){
