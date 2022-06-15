@@ -13,7 +13,16 @@
 		6A246B492850B13200533E29 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6A246B472850B13200533E29 /* Main.storyboard */; };
 		6A246B4B2850B13A00533E29 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6A246B4A2850B13A00533E29 /* Assets.xcassets */; };
 		6A246B4E2850B13A00533E29 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6A246B4C2850B13A00533E29 /* LaunchScreen.storyboard */; };
+<<<<<<< HEAD
 		6A8904AD2852EB5D008BEBB9 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A8904AC2852EB5D008BEBB9 /* SwiftUIView.swift */; };
+=======
+		6A8904AF2852F336008BEBB9 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A8904AE2852F336008BEBB9 /* SwiftUIView.swift */; };
+		6A8904B1285300F3008BEBB9 /* ScannerViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A8904B0285300F3008BEBB9 /* ScannerViewModel.swift */; };
+		6A8904B328530114008BEBB9 /* QrCodeCameraDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A8904B228530114008BEBB9 /* QrCodeCameraDelegate.swift */; };
+		6A8904B52853012F008BEBB9 /* CameraPreview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A8904B42853012F008BEBB9 /* CameraPreview.swift */; };
+		6A8904B728530158008BEBB9 /* QrCodeScannerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A8904B628530158008BEBB9 /* QrCodeScannerView.swift */; };
+		6A8904B9285301AC008BEBB9 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A8904B8285301AC008BEBB9 /* SecondView.swift */; };
+>>>>>>> 4a29b0098437c83aad1b0def04639b9df40d55db
 		6AE4E19A285207BE00D3CA4D /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AE4E199285207BE00D3CA4D /* DetailViewController.swift */; };
 		6AE4E19F2852E29400D3CA4D /* Algorithms in Frameworks */ = {isa = PBXBuildFile; productRef = 6AE4E19E2852E29400D3CA4D /* Algorithms */; };
 		E26ED63287D959F6CE41F9EF /* Pods_Pickup.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0026AE6ABB8C99A73B5E6FF /* Pods_Pickup.framework */; };
@@ -29,7 +38,16 @@
 		6A246B4A2850B13A00533E29 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6A246B4D2850B13A00533E29 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6A246B4F2850B13A00533E29 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+<<<<<<< HEAD
 		6A8904AC2852EB5D008BEBB9 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
+=======
+		6A8904AE2852F336008BEBB9 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
+		6A8904B0285300F3008BEBB9 /* ScannerViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScannerViewModel.swift; sourceTree = "<group>"; };
+		6A8904B228530114008BEBB9 /* QrCodeCameraDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QrCodeCameraDelegate.swift; sourceTree = "<group>"; };
+		6A8904B42853012F008BEBB9 /* CameraPreview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraPreview.swift; sourceTree = "<group>"; };
+		6A8904B628530158008BEBB9 /* QrCodeScannerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QrCodeScannerView.swift; sourceTree = "<group>"; };
+		6A8904B8285301AC008BEBB9 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
+>>>>>>> 4a29b0098437c83aad1b0def04639b9df40d55db
 		6AE4E199285207BE00D3CA4D /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		8B444E40EA2B062D7F476FC7 /* Pods-Pickup.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Pickup.release.xcconfig"; path = "Target Support Files/Pods-Pickup/Pods-Pickup.release.xcconfig"; sourceTree = "<group>"; };
 		D0026AE6ABB8C99A73B5E6FF /* Pods_Pickup.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Pickup.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -90,7 +108,13 @@
 				6A246B432850B13200533E29 /* SceneDelegate.swift */,
 				6A246B452850B13200533E29 /* ViewController.swift */,
 				6A246B472850B13200533E29 /* Main.storyboard */,
+				6A8904AE2852F336008BEBB9 /* SwiftUIView.swift */,
+				6A8904B8285301AC008BEBB9 /* SecondView.swift */,
+				6A8904B628530158008BEBB9 /* QrCodeScannerView.swift */,
+				6A8904B0285300F3008BEBB9 /* ScannerViewModel.swift */,
+				6A8904B228530114008BEBB9 /* QrCodeCameraDelegate.swift */,
 				6AE4E199285207BE00D3CA4D /* DetailViewController.swift */,
+				6A8904B42853012F008BEBB9 /* CameraPreview.swift */,
 				6A246B4A2850B13A00533E29 /* Assets.xcassets */,
 				6A246B4C2850B13A00533E29 /* LaunchScreen.storyboard */,
 				6A8904AC2852EB5D008BEBB9 /* SwiftUIView.swift */,
@@ -220,11 +244,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6A8904B728530158008BEBB9 /* QrCodeScannerView.swift in Sources */,
 				6A246B462850B13200533E29 /* ViewController.swift in Sources */,
+				6A8904B52853012F008BEBB9 /* CameraPreview.swift in Sources */,
+				6A8904B1285300F3008BEBB9 /* ScannerViewModel.swift in Sources */,
+				6A8904B328530114008BEBB9 /* QrCodeCameraDelegate.swift in Sources */,
 				6A246B422850B13200533E29 /* AppDelegate.swift in Sources */,
+				6A8904B9285301AC008BEBB9 /* SecondView.swift in Sources */,
 				6A246B442850B13200533E29 /* SceneDelegate.swift in Sources */,
 				6AE4E19A285207BE00D3CA4D /* DetailViewController.swift in Sources */,
+<<<<<<< HEAD
 				6A8904AD2852EB5D008BEBB9 /* SwiftUIView.swift in Sources */,
+=======
+				6A8904AF2852F336008BEBB9 /* SwiftUIView.swift in Sources */,
+>>>>>>> 4a29b0098437c83aad1b0def04639b9df40d55db
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -372,6 +405,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = VY64V94UHV;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Pickup/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -400,6 +434,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = VY64V94UHV;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Pickup/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;

@@ -53,9 +53,15 @@
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="1Os-6g-fVP">
+<<<<<<< HEAD
                         <barButtonItem key="leftBarButtonItem" title="入出庫画面" id="nA1-gn-1n3">
                             <connections>
                                 <segue destination="hwI-Cg-v4M" kind="show" id="Awl-zV-HRt"/>
+=======
+                        <barButtonItem key="leftBarButtonItem" title="入出庫" id="eCp-zk-TlP">
+                            <connections>
+                                <segue destination="B79-fA-4fw" kind="show" destinationCreationSelector="swiftUISegueButton:" id="RAn-0z-XoX"/>
+>>>>>>> 4a29b0098437c83aad1b0def04639b9df40d55db
                             </connections>
                         </barButtonItem>
                     </navigationItem>
@@ -68,6 +74,7 @@
             <point key="canvasLocation" x="928.98550724637687" y="67.633928571428569"/>
         </scene>
         <!--Hosting Controller-->
+<<<<<<< HEAD
         <scene sceneID="r3T-kT-imp">
             <objects>
                 <hostingController id="hwI-Cg-v4M" sceneMemberID="viewController">
@@ -76,6 +83,16 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="3Rv-DS-kqX" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="929" y="829"/>
+=======
+        <scene sceneID="JA8-IJ-1eq">
+            <objects>
+                <hostingController id="B79-fA-4fw" sceneMemberID="viewController">
+                    <navigationItem key="navigationItem" id="lUV-oa-ljl"/>
+                </hostingController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="U1a-yr-avq" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="929" y="781"/>
+>>>>>>> 4a29b0098437c83aad1b0def04639b9df40d55db
         </scene>
         <!--Detail View Controller-->
         <scene sceneID="BN1-I4-155">

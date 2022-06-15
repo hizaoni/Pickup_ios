@@ -14,8 +14,13 @@
             filePath = "Pickup/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
+<<<<<<< HEAD
             startingLineNumber = "63"
             endingLineNumber = "63"
+=======
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+>>>>>>> 4a29b0098437c83aad1b0def04639b9df40d55db
             landmarkName = "getTable()"
             landmarkType = "7">
          </BreakpointContent>
@@ -30,6 +35,7 @@
             filePath = "Pickup/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
+<<<<<<< HEAD
             startingLineNumber = "91"
             endingLineNumber = "91"
             landmarkName = "tableView(_:cellForRowAt:)"
@@ -64,6 +70,10 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "90"
             endingLineNumber = "90"
+=======
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+>>>>>>> 4a29b0098437c83aad1b0def04639b9df40d55db
             landmarkName = "tableView(_:cellForRowAt:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -71,6 +81,41 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
+<<<<<<< HEAD
+=======
+            uuid = "DCBEC97A-70BA-4C72-B33D-E28957ED155A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pickup/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92208160-01CB-42DE-B9A5-1D90AB16ADD1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pickup/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+>>>>>>> 4a29b0098437c83aad1b0def04639b9df40d55db
             uuid = "357EB136-448E-4CB6-A351-BAF4B317349C"
             shouldBeEnabled = "No"
             ignoreCount = "0"
@@ -78,8 +123,13 @@
             filePath = "Pickup/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
+<<<<<<< HEAD
             startingLineNumber = "82"
             endingLineNumber = "82"
+=======
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+>>>>>>> 4a29b0098437c83aad1b0def04639b9df40d55db
             landmarkName = "getTable()"
             landmarkType = "7">
          </BreakpointContent>
@@ -94,8 +144,13 @@
             filePath = "Pickup/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
+<<<<<<< HEAD
             startingLineNumber = "81"
             endingLineNumber = "81"
+=======
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+>>>>>>> 4a29b0098437c83aad1b0def04639b9df40d55db
             landmarkName = "getTable()"
             landmarkType = "7">
          </BreakpointContent>

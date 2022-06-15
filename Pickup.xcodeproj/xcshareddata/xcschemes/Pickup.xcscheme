@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "EA0FB3DF6A16AF76C80DF1B64071E6C6"
-               BuildableName = "Pods_Pickup.framework"
-               BlueprintName = "Pods-Pickup"
-               ReferencedContainer = "container:Pods.xcodeproj">
+               BlueprintIdentifier = "6A246B3D2850B13200533E29"
+               BuildableName = "Pickup.app"
+               BlueprintName = "Pickup"
+               ReferencedContainer = "container:Pickup.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -40,6 +40,28 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "6A246B3D2850B13200533E29"
+            BuildableName = "Pickup.app"
+            BlueprintName = "Pickup"
+            ReferencedContainer = "container:Pickup.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+      <EnvironmentVariables>
+         <EnvironmentVariable
+            key = "BASIC_AUTH_USER"
+            value = "admin"
+            isEnabled = "YES">
+         </EnvironmentVariable>
+         <EnvironmentVariable
+            key = "BASIC_AUTH_PASS"
+            value = "2222"
+            isEnabled = "YES">
+         </EnvironmentVariable>
+      </EnvironmentVariables>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
@@ -47,6 +69,16 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "6A246B3D2850B13200533E29"
+            BuildableName = "Pickup.app"
+            BlueprintName = "Pickup"
+            ReferencedContainer = "container:Pickup.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
